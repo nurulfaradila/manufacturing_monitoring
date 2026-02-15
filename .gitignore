@@ -1,0 +1,40 @@
+# Python
+venv/
+.venv/
+env/
+bin/
+lib/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.eslintcache
+.stylelintcache
+node_modules.log
+
+# Docker & Data
+mysql_data/
+*.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
